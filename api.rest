@@ -1,0 +1,1 @@
+DELETE https://server-com-wzh0.onrender.com/products/78
