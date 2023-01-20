@@ -2733,7 +2733,10 @@
             "original_price": 5999,
             "description": "Adidas Men's SUPERNOVA 2 Ash Grey Running Shoes",
             "category": "shoes",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000013734213_97Wx144H_202207082032321.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000013734213_97Wx144H_202207082032321.jpeg"],
             "rating": 3.9
         },
         {
@@ -2742,7 +2745,10 @@
             "original_price": 1799,
             "description": "Puma Unisex Perforated Low IDP Grey Running Shoes",
             "category": "shoes",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000009532618_97Wx144H_202112181057081.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000009532618_97Wx144H_202112181057081.jpeg"],
             "rating": 4.1
         },
         {
@@ -2751,7 +2757,10 @@
             "original_price": 3399,
             "description": "Fila Men's SOIFON Black Running Shoes",
             "category": "shoes",
-            "images": "https://img.tatacliq.com/images/i9/97Wx144H/MP000000015665678_97Wx144H_202212102221501.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i9/97Wx144H/MP000000015665678_97Wx144H_202212102221501.jpeg"],
             "rating": 4.7
         },
         {
@@ -2760,7 +2769,10 @@
             "original_price": 1599,
             "description": "The color could be slightly different between on the screen and in practice.",
             "category": "menwear",
-            "images": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"],
             "rating": 2.1
         },
         {
@@ -2769,7 +2781,10 @@
             "original_price": 699,
             "description": "From our Legends Collection.",
             "category": "jewelery",
-            "images": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg"],
             "rating": 4.6
         },
         {
@@ -2778,7 +2793,10 @@
             "original_price": 1689,
             "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.",
             "category": "jewelery",
-            "images": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"],
             "rating": 3.9
         },
         {
@@ -2787,7 +2805,10 @@
             "original_price": 999,
             "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her.",
             "category": "jewelery",
-            "images": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"],
             "rating": 3.4
         },
         {
@@ -2796,7 +2817,10 @@
             "original_price": 1099,
             "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
             "category": "jewelery",
-            "images": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg"],
             "rating": 1.9
         },
         {
@@ -2805,11 +2829,11 @@
             "original_price": 649,
             "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity",
             "category": "electronics",
-            "images": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-            "rating": {
-                "rate": 3.3,
-                "count": 203
-            }
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg"],
+            "rating": 3.9
         },
         {
             "id": 130,
@@ -2817,7 +2841,10 @@
             "original_price": 1099,
             "description": "Easy upgrade for faster boot up, shutdown, application load and response",
             "category": "electronics",
-            "images": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"],
             "rating": 2.9
         },
         {
@@ -2826,7 +2853,10 @@
             "original_price": 1099,
             "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds.",
             "category": "electronics",
-            "images": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"],
             "rating": 4.8
         },
         {
@@ -2835,7 +2865,10 @@
             "original_price": 1149,
             "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy",
             "category": "electronics",
-            "images": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg"],
             "rating": 4.8
         },
         {
@@ -2844,7 +2877,10 @@
             "original_price": 599,
             "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology.",
             "category": "electronics",
-            "images": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg"],
             "rating": 2.9
         },
         {
@@ -2853,7 +2889,10 @@
             "original_price": 99999,
             "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT TECHNOLOGY",
             "category": "electronics",
-            "images": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"],
             "rating": 2.2
         },
         {
@@ -2862,7 +2901,10 @@
             "original_price": 5699,
             "description": "The Jackets is US standard size, Please choose size as your usual wear Material",
             "category": "womenwear",
-            "images": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg"],
             "rating": 2.6
         },
         {
@@ -2871,7 +2913,10 @@
             "original_price": 2999,
             "description": "100% POLYURETHANE 100% POLYESTER 75% POLYESTER 25% COTTON",
             "category": "womenwear",
-            "images": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg"],
             "rating": 2.9
         },
         {
@@ -2880,7 +2925,10 @@
             "original_price": 3999,
             "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded",
             "category": "womenwear",
-            "images": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"],
             "rating": 3.8
         },
         {
@@ -2889,7 +2937,10 @@
             "original_price": 9849,
             "description": "95% RAYON 5% SPANDEX, Made in USA or Imported",
             "category": "womenwear",
-            "images": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"],
             "rating": 4.7
         },
         {
@@ -2898,7 +2949,10 @@
             "original_price": 799,
             "description": "100% Polyester, Machine wash, 100% cationic polyester interlock",
             "category": "womenwear",
-            "images": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg"],
             "rating": 4.5
         },
         {
@@ -2907,7 +2961,10 @@
             "original_price": 1299,
             "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print",
             "category": "womenwear",
-            "images": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg"],
             "rating": 3.6
         },
         {
@@ -2916,7 +2973,10 @@
             "original_price": 2399,
             "description": "Titan 1802NL02 Neo Analog Watch for Men",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000007753107_97Wx144H_202109172315001.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000007753107_97Wx144H_202109172315001.jpeg"],
             "rating": 4.6
         },
         {
@@ -2925,7 +2985,10 @@
             "original_price": 5599,
             "description": "Titan 1805QM01 Neo Splash Analog Watch for Men",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012845444_97Wx144H_202204151802591.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000012845444_97Wx144H_202204151802591.jpeg"],
             "rating": 4.5
         },
         {
@@ -2934,7 +2997,10 @@
             "original_price": 6399,
             "description": "Titan 1805KM03 Classique Analog Watch for Men",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000013257278_97Wx144H_202205261842581.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000013257278_97Wx144H_202205261842581.jpeg"],
             "rating": 4.5
         },
         {
@@ -2943,7 +3009,10 @@
             "original_price": 23999,
             "description": "Fossil FTW4071 Gen 6 Display Wellness Edition Unisex Smartwatch",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i9/97Wx144H/MP000000014863715_97Wx144H_202212212322431.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i9/97Wx144H/MP000000014863715_97Wx144H_202212212322431.jpeg"],
             "rating": 4.2
         },
         {
@@ -2952,7 +3021,10 @@
             "original_price": 1999,
             "description": "Fastrack 38067PP04 Streetwear Digital Watch for Men",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012877542_97Wx144H_202204201452501.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000012877542_97Wx144H_202204201452501.jpeg"],
             "rating": 4.2
         },
         {
@@ -2970,7 +3042,10 @@
             "original_price": 1449,
             "description": "Sonata 7143WL01 Utsav Analog Watch for Men",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000015452035_97Wx144H_202211252028481.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000015452035_97Wx144H_202211252028481.jpeg"],
             "rating": 4.0
         },
         {
@@ -2979,7 +3054,10 @@
             "original_price": 4099,
             "description": "Fastrack NP3084NM01 Analog Watch for Men",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014056009_97Wx144H_202208060018461.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000014056009_97Wx144H_202208060018461.jpeg"],
             "rating": 4.0
         },
         {
@@ -2988,7 +3066,10 @@
             "original_price": 1099,
             "description": "Sonata 8085SM01 Everyday Analog Watch for Women",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014459756_97Wx144H_202210021721521.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000014459756_97Wx144H_202210021721521.jpeg"],
             "rating": 3.7
         },
         {
@@ -2997,7 +3078,10 @@
             "original_price": 2499,
             "description": "Fastrack 6269NM01 X Thor Analog Watch for Women",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000014056029_97Wx144H_202208060020301.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000014056029_97Wx144H_202208060020301.jpeg"],
             "rating": 4.4
         },
         {
@@ -3006,7 +3090,10 @@
             "original_price": 6649,
             "description": "Titan NK95022WM01 Raga Moonlight Analog Watch for Women",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000002204586_97Wx144H_202111101916321.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000002204586_97Wx144H_202111101916321.jpeg"],
             "rating": 4.9
         },
         {
@@ -3015,7 +3102,10 @@
             "original_price": 7749,
             "description": "Fossil CE1116 Stella Analog Watch for Women",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012255664_97Wx144H_202202241356481.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000012255664_97Wx144H_202202241356481.jpeg"],
             "rating": 5
         },
         {
@@ -3024,7 +3114,10 @@
             "original_price": 1199,
             "description": "Fastrack NM6178SL01 Denim Analog Watch for Women",
             "category": "watch",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000009263668_97Wx144H_202112241732461.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000009263668_97Wx144H_202112241732461.jpeg"],
             "rating": 4.1
         },
         {
@@ -3033,7 +3126,10 @@
             "original_price": 5549,
             "description": "Men Black Mock Collar Full Zip Solid Jacket",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000012103097_97Wx144H_202202121201531.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000012103097_97Wx144H_202202121201531.jpeg"],
             "rating": 3.1
         },
         {
@@ -3042,7 +3138,10 @@
             "original_price": 2999,
             "description": "Arrow Grey Regular Fit Jacket",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000010622194_97Wx144H_202109170204431.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000010622194_97Wx144H_202109170204431.jpeg"],
             "rating": 3.8
         },
         {
@@ -3051,7 +3150,10 @@
             "original_price": 4799,
             "description": "Woodland Black Full Sleeves Regular Fit Jacket",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000008831694_97Wx144H_202102192220101.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000008831694_97Wx144H_202102192220101.jpeg"],
             "rating": 4.1
         },
         {
@@ -3060,7 +3162,10 @@
             "original_price": 4499,
             "description": "Jack & Jones Beige Regular Fit Quilted Quilted Hooded Jacket",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000010443023_97Wx144H_202108272313421.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000010443023_97Wx144H_202108272313421.jpeg"],
             "rating": 4.3
         },
         {
@@ -3069,7 +3174,10 @@
             "original_price": 949,
             "description": "Red Tape Olive Full Sleeves Sweatshirt",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000010954539_97Wx144H_202110201121571.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000010954539_97Wx144H_202110201121571.jpeg"],
             "rating": 4.3
         },
         {
@@ -3078,7 +3186,10 @@
             "original_price": 749,
             "description": "Being Human Wine Striped Sweatshirt",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i7/97Wx144H/MP000000009873446_97Wx144H_202106300043091.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i7/97Wx144H/MP000000009873446_97Wx144H_202106300043091.jpeg"],
             "rating": 4.3
         },
         {
@@ -3087,7 +3198,10 @@
             "original_price": 849,
             "description": "Ruggers Light Orange Hooded Sweatshirt",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i8/97Wx144H/MP000000013859932_97Wx144H_202207211314501.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i8/97Wx144H/MP000000013859932_97Wx144H_202207211314501.jpeg"],
             "rating": 4.6
         },
         {
@@ -3096,7 +3210,10 @@
             "original_price": 849,
             "description": "Allen Solly Red Cotton Regular Fit Hooded Sweatshirt",
             "category": "menwear",
-            "images": "https://img.tatacliq.com/images/i9/97Wx144H/MP000000015684479_97Wx144H_202212140041401.jpeg",
+            "sizes": [
+                "Free Size"
+            ],
+            "images": ["https://img.tatacliq.com/images/i9/97Wx144H/MP000000015684479_97Wx144H_202212140041401.jpeg"],
             "rating": 4.6
         }
     ]
